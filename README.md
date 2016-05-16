@@ -12,7 +12,7 @@ var mensajes = Mensaje("elementos");
 
 ...
 
-console.log(mensajes(5, 10)); // => Mostrando 5 elementos de 10
-console.log(mensajes(5, 5)); // => Mostrando todos los elementos
-console.log(mensajes()); // => null
+console.log(mensajes.paginado(5, 10)); // => Mostrando 5 elementos de 10
+console.log(mensajes.paginado(5, 5)); // => Mostrando todos los elementos
+console.log(mensajes.paginado()); // => null
 ```
