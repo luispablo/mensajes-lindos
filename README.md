@@ -4,7 +4,7 @@ Un helper sencillo para armar mensajes bonitos en español.
 ## Uso
 
 ```
-var Mensajes = require("Mensajes");
+var Mensajes = require("mensajes-lindos");
 
 ...
 

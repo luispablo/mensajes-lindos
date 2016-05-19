@@ -1,6 +1,6 @@
 {
   "name": "mensajes-lindos",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Un helper sencillo para armar mensajes bonitos en español",
   "main": "index.js",
   "scripts": {
